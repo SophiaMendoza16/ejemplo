@@ -28,16 +28,18 @@ void main() {
                     resultado = numero1 + numero2;
                     IO.println("Resultado: " + resultado);
                     break;
-                /* para la resta */
+                /* para la suma */
                 case 2:
                     resultado = numero1 - numero2;
                     IO.println("Resultado: " + resultado);
                     break;
+                /* para la resta*/
 
                 case 3:
                     resultado = numero1 * numero2;
                     IO.println("Resultado: " + resultado);
                     break;
+                /* para la multiplicacion */
 
                 case 4:
                     if (numero2 != 0) {
