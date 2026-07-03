@@ -28,7 +28,7 @@ void main() {
                     resultado = numero1 + numero2;
                     IO.println("Resultado: " + resultado);
                     break;
-
+                /* para la resta */
                 case 2:
                     resultado = numero1 - numero2;
                     IO.println("Resultado: " + resultado);
